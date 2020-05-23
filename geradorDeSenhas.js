@@ -10,5 +10,3 @@ var GeraSenha = function() {
     }
     return this.senha;
 }
-
-console.log(GeraSenha())
