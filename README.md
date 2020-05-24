@@ -8,7 +8,7 @@ A senha de abertura é gerada por um plugin que será implementado para os aplic
 <img src="Renders do Cofre/Render Topo.png">
 
 #### Sem o DPAD:
-<img src="Renders do Cofre/Render sem DPAD.png">
+<img src="Renders do Cofre/Render sem Dpad.png">
 
 #### Sem tampa:
 <img src="Renders do Cofre/Render sem Tampa.png">
