@@ -23,9 +23,14 @@ A senha de abertura é gerada por um plugin que será implementado para os aplic
 
 ### Sobre nós:
 Bianca Auwarter - Engenharia Elétrica - Instituto Politécnico de Bragança
+
 Jessyca Morier - Design Gráfico - Instituto INFNET
+
 Lucas Amaral - Engenharia Mecânica e de Armamento - IME-RJ
+
 Pedro Grisolia - Ciência da Computação - UERJ
+
 Steffany Soares - Tec. Informática - CEFET-RJ
+
 
 Esse projeto foi desenvolvido durante o Hacking Help 2020 - Hacking Rio
