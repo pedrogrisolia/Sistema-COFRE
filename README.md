@@ -1,4 +1,4 @@
-
+<img src="Plugin/img/logoCofre.png" align="center">
 
 # Sistema COFRE
 ### Pato Mergulhão / Logística
