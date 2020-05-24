@@ -162,7 +162,7 @@ div a:hover{
 
 footer {
     display: block;
-    position: relative;
+    position: fixed;
     clear: both;
     left: 0;
     bottom: 0;
