@@ -13,7 +13,7 @@ Nessa época de pandemia, os serviços de delivery passaram a ser essenciais. Po
 [Veja nosso pitch de 3 minutos](https://youtu.be/v4Xafh7NWE0)
 
 
-[Veja nosso Slide Deck](../SlideDeck_SistemaCOFRE.pdf)
+[Veja nosso Slide Deck](SlideDeck_SistemaCOFRE.pdf)
 
 #### O Produto
 
