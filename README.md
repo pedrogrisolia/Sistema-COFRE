@@ -7,7 +7,13 @@
 
 #### Apresentação 
 
-Nessa época de pandemia, os serviços de delivery passaram a ser essenciais. Porém, devido a problemas de segurança e higiene, a insatisfação dos consumidores aumentou bastante, segundo pesquisas. Sendo assim, desenvolvemos uma caixa, que será muito mais higiênica do que o que se usa atualmente, e um plugin para ser acoplado aos aplicativos de delivery, que trará uma camada extra de segurança através de um sistema de senhas.
+Nessa época de pandemia, os serviços de delivery passaram a ser essenciais. Porém, devido a problemas de segurança e higiene, a insatisfação dos consumidores aumentou bastante, segundo pesquisas. Sendo assim, desenvolvemos uma caixa, que será muito mais higiênica do que o que se usa atualmente, e um plugin para ser acoplado aos aplicativos de delivery, que trará uma camada extra de segurança através de um sistema de senhas. 
+
+
+[Veja nosso pitch de 3 minutos](https://youtu.be/v4Xafh7NWE0)
+
+
+[Veja nosso Slide Deck](../SlideDeck_SistemaCOFRE.pdf)
 
 #### O Produto
 
@@ -49,4 +55,4 @@ Steffany Soares - Tec. Informática - CEFET-RJ
 
 
 
-Esse projeto foi desenvolvido durante o Hacking Help 2020 - Hacking Rio
+Esse projeto foi desenvolvido durante o [Hacking Help 2020 - Hacking Rio](https://hackingrio.com/hackinghelp/)
