@@ -10,7 +10,7 @@
 Nessa época de pandemia, os serviços de delivery passaram a ser essenciais. Porém, devido a problemas de segurança e higiene, a insatisfação dos consumidores aumentou bastante, segundo pesquisas. Sendo assim, desenvolvemos uma caixa, que será muito mais higiênica do que o que se usa atualmente, e um plugin para ser acoplado aos aplicativos de delivery, que trará uma camada extra de segurança através de um sistema de senhas. 
 
 
-[Veja nosso pitch de 3 minutos](https://youtu.be/v4Xafh7NWE0)
+[Veja nosso Pitch de 3 minutos](https://youtu.be/v4Xafh7NWE0)
 
 
 [Veja nosso Slide Deck](SlideDeck_SistemaCOFRE.pdf)
@@ -43,15 +43,15 @@ A senha de abertura é gerada por um plugin que será implementado para os aplic
 
 
 #### Sobre nós:
-Bianca Auwarter - Engenharia Elétrica - Instituto Politécnico de Bragança
+[Bianca Auwarter](https://www.linkedin.com/in/bianca-auwarter-b39272189/) - Engenharia Elétrica - Instituto Politécnico de Bragança
 
-Jessyca Morier - Design Gráfico - Instituto INFNET
+[Jessyca Morier](https://www.linkedin.com/in/jessyca-cordeiro-morier/) - Design Gráfico - Instituto INFNET
 
-Lucas Amaral - Engenharia Mecânica e de Armamento - IME-RJ
+[Lucas Amaral](http://www.linkedin.com/in/lucas-gomes-do-amaral-423b38116) - Engenharia Mecânica e de Armamento - IME-RJ
 
-Pedro Grisolia - Ciência da Computação - UERJ
+[Pedro Grisolia](https://www.linkedin.com/in/pedro-m-13a4ab161/) - Ciência da Computação - UERJ
 
-Steffany Soares - Tec. Informática - CEFET-RJ
+[Steffany Soares](https://www.linkedin.com/in/steffanymartinssoares/) - Tec. Informática - CEFET-RJ
 
 
 
