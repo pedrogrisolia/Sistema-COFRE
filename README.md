@@ -5,6 +5,9 @@
 
 <img src="Plugin/img/logoCofre.png">
 
+
+Este projeto ganhou em 2º lugar no cluster de logística durante o [Hacking Help 2020 - Hacking Rio](https://hackingrio.com/hackinghelp/)
+
 ### Apresentação 
 
 Nessa época de pandemia, os serviços de delivery passaram a ser essenciais. Porém, devido a problemas de segurança e higiene, a insatisfação dos consumidores aumentou bastante, segundo pesquisas. Sendo assim, desenvolvemos uma caixa, que será muito mais higiênica do que é usado atualmente, e um plugin, para ser acoplado aos aplicativos de delivery, que trará uma camada extra de segurança através de um sistema de senhas. 
